@@ -1,7 +1,29 @@
 site_name: Bedrock User Guide
+site_url: https://micronode.org/bedrock-user-guide
 theme:
   name: material
 #  favicon: images/favicon.png
 #  logo: images/logo-50.png
+  features:
+    - tabs
 repo_url: https://github.com/micronode/bedrock
 repo_name: micronode/bedrock
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/benfortuna
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/benfortuna
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/micronode
+nav:
+  - Home:
+      - Introduction: index.md
+  - Blueprints:
+      - Overview: blueprints/index.md
+  - Roles:
+      - Overview: roles/index.md
+  - CLI:
+      - Overview: cli/index.md
+  - Console:
+      - Overview: console/index.md
