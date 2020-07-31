@@ -21,6 +21,7 @@ nav:
       - Introduction: index.md
   - Blueprints:
       - Overview: blueprints/index.md
+      - Provisioning: blueprints/provision.md
       - Table of Blueprints: blueprints/BLUEPRINTS.md
       - Managing State: blueprints/managing-state.md
   - Roles:
