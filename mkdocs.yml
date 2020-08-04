@@ -8,6 +8,9 @@ theme:
     - tabs
 repo_url: https://github.com/micronode/bedrock
 repo_name: micronode/bedrock
+google_analytics:
+  - UA-402774-13
+  - auto
 extra:
   social:
     - icon: fontawesome/brands/github
