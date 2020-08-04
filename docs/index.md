@@ -2,6 +2,7 @@
 
 [Docker]: https://docker.com
 [Terraform]: https://terraform.io
+[Terraform Cloud]: https://app.terraform.io
 [Cloudformation]: https://aws.amazon.com/cloudformation/
 [Terragrunt]: https://github.com/gruntwork-io/terragrunt
 [Astro]: https://github.com/uber/astro
@@ -19,3 +20,9 @@ be addressed throughout the entire architecture, and not just at the perimiter.
 Role-based access control (RBAC) allows us to restrict actors to the minimum required permissions, which is commonly 
 referred to as the [principle of least privilege], and is the basis for the architectural blueprints provided by 
 Bedrock. 
+
+### Terraform
+
+Bedrock is build on top of the functionality provided by [Terraform] and [Terraform Cloud] to
+facilitate a simple, secure and consistent development and provisioning workflow.
+ 
