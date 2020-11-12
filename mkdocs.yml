@@ -27,9 +27,7 @@ nav:
       - Provisioning: blueprints/provision.md
       - Table of Blueprints: blueprints/BLUEPRINTS.md
       - Managing State: blueprints/managing-state.md
-  - Roles:
-      - Overview: roles/index.md
-      - Roles and Permissions: roles/ROLES.md
+      - Roles and Permissions: blueprints/ROLES.md
   - CLI:
       - Overview: cli/index.md
   - Console:
