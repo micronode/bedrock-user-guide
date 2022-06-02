@@ -1,5 +1,11 @@
-# Authentication and Identity
-This page explores key concepts with user identity and access management.
+# Identity and Access Management
+
+This page explores key concepts with user authentication, identity and access management.
 
 ## Overview
+
 TBD.
+
+## References:
+
+* [AWS Well Architected - Identity Management](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/identity-management.html)
